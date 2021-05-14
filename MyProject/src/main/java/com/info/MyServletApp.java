@@ -14,6 +14,7 @@ public class MyServletApp extends GenericServlet {
 	public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
 		PrintWriter writer = res.getWriter();
 		writer.print("Hello world!");
+		writer.print("my name is kishor");
 	}
 
 }
