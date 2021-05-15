@@ -1,0 +1,3 @@
+[submodule "new module"]
+	path = new module
+	url = https://github.com/kishor961/MyProject.git
